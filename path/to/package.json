@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  }
+}
